@@ -110,7 +110,3 @@ Confirme que o modelo possui imagens associadas às páginas e que a pasta escol
 ## 📌 Finalidade e escopo
 
 O aplicativo destina-se a facilitar o suporte ao **IMOB**, especialmente quando é necessário replicar uma configuração de ficha de impressão em outro ambiente. A exportação e a importação do arquivo `.mfimp` tornam essa transferência mais simples do que refazer manualmente a configuração. Também é possível exportar as imagens associadas ao modelo. O aplicativo é uma ferramenta auxiliar para essas atividades; recursos que não aparecem na interface ou nas notas da Release não devem ser considerados suportados.
-
-## 🐞 Reportar um problema
-
-Ao abrir um chamado, informe a versão do aplicativo, a versão do Windows, a operação realizada e o texto da mensagem apresentada. Remova senhas, dados pessoais, endereços internos e outros dados sensíveis de capturas de tela, logs e arquivos de exemplo.
