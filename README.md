@@ -1,8 +1,8 @@
 
-<h1>
+<h2>
   <img src="./logo-ImobXChange-Pro.png" alt="Logo ImobXChange Pro" width="40" height="40" align="bottom" />
   ImobXchange Pro
-</h1>
+</h2>
 
 ## ℹ️ Sobre o aplicativo
 
