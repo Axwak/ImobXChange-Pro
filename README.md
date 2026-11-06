@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Logo ImobXChange Pro" src="images/logo_vertapro.svg" width="300" height="267" />
+</p>
 # 🏠 ImobXchange Pro — documentação
 
 ## ℹ️ Sobre o aplicativo
