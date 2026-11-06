@@ -1,6 +1,6 @@
 
 <h1>
-  <img src="./logo-ImobXChange-Pro.png" alt="Logo ImobXChange Pro" width="50" height="50" align="absmiddle" />
+  <img src="./logo-ImobXChange-Pro.png" alt="Logo ImobXChange Pro" width="70" height="70" align="absmiddle" />
   ImobXchange Pro
 </h1>
 
