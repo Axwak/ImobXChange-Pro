@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo ImobXChange Pro" src="images/logo_vertapro.svg" width="300" height="267" />
+  <img alt="Logo ImobXChange Pro" src="logo-ImobXChange-Pro.png" width="200" height="200" />
 </p>
 # 🏠 ImobXchange Pro — documentação
 
