@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo ImobXChange Pro" src="logo-ImobXChange-Pro.png" width="50" height="50" />
-  # 🏠 ImobXchange Pro — documentação
+  # ImobXchange Pro
 </p>
 
 ## ℹ️ Sobre o aplicativo
